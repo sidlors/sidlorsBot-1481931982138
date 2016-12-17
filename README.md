@@ -14,7 +14,7 @@ This project can be built with [Apache Maven](http://maven.apache.org/). Use the
 
 2. To push the application to Bluemix using the cf command line tool:
     ```bash
-    $ cf push <appname> -p target/TomcatHelloWorldApp.war
+    $ cf push sidlorsBot -p target/TomcatHelloWorldApp.war
     ```
 
 # Notice
